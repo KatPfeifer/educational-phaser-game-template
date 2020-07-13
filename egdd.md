@@ -14,170 +14,47 @@ meta:
 
 # Overview
 
-*Notes written in italics must be deleted in the final version.*
+The limiting reactants simulation will demonstrate the concept of limiting reactants and how situations other than the ideal molar ratio result in an excess of starting material. Students will also be able to explore the method of continuous variation to determine the ideal molar ratio of a reaction.
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
-
-## Influences (Brief)
-
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+This simulation will show how limiting reactants work and will help demonstrate the method of continuous variation in determining the ideal molar ratio.
 
 ## Core Gameplay Mechanics (Brief)
 
-*Give a very high-level description of any core gameplay mechanics*
-
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
-
-# Learning Aspects
+- Students will input the amount of compound into the provided input box. If the compound is traditionally found as a solid (such information will be found at sigmaaldrich.com), then the amount will be in grams. If the compound traditionally comes as a solution, the student will be able to enter the number of mLs and concentration for their solution.
+- A "plot point" button will allow students to plot their point on the graph corresponding to the method of continuous variation
+- A help button will provide advice or suggestions and will feature FAQ questions in case the students get stuck.
 
 ## Learning Domains
-
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+-General chemistry
+-Limiting reactants
+-method of continuous variation
 
 ## Target Audiences
-
-*Who are your learners?*
+general chemistry students
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
-
-## Learning Objectives
-
-*Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
-
-- *Formal Learning Objective #1*
-- *Formal Learning Objective #2*
-- *Formal Learning Objective #3*
+UD Chem103 lab
 
 ## Prerequisite Knowledge
-
-*What do they need to know prior to trying this game?*
-
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
-
-## Assessment Measures
-
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
-
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
-
-# What sets this project apart?
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
-
-# Player Interaction Patterns and Modes
-
-## Player Interaction Pattern
-
-*How many players / how it works / etc.*
-
-## Player Modes
-
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
-
-# Gameplay Objectives
-
-- *Primary Objective #1*: *Description*
-- *Primary Objective #2*: *Description*
-- *etc.*
-
-# Procedures/Actions
-
-*Describe the control scheme and what actions a user can take in the game.*
-
-# Rules
-
-*What resources are available to the player that they make use of?  How does this affect gameplay?*
+- molar ratios
+- mole fractions
 
 # Objects/Entities
-
-*What other things are in the world that you need to design?*
+  - A table (or multiple tables) to allow students to input the amount of material for each reactant
+  - A reaction selecting mechanism
+  - A button that students use to add a point to their graph.
 
 ## Core Gameplay Mechanics (Detailed)
 
-  - *Core Gameplay Mechanic #1*
-    - Details: *Describe in 2 paragraphs or less*
-    - How it works: *Describe in 2 paragraphs or less*
-  - *Core Gameplay Mechanic #2*
-    - Details: *Describe in 2 paragraphs or less*
-    - How it works: *Describe in 2 paragraphs or less*
-  - *Core Gameplay Mechanic #3*
-    - Details: *Describe in 2 paragraphs or less*
-    - How it works: *Describe in 2 paragraphs or less*
-  - *Core Gameplay Mechanic #4*
-    - Details: *Describe in 2 paragraphs or less*
-    - How it works: *Describe in 2 paragraphs or less*
+  - Amount of matter input
+    - How it works: Students put the number of grams or concentration/number of mLs into an imput box which then changes the other charts and graphs.
+  - Graph Point Button
+    - How it works: When students click this button, the point corresponding to the numbers in the input boxes appears on the method of continuous variation chart.
+  - Reaction Selector
+    - How it works: This will allow students to pick from a set of pre-chosen reactions. Their selection will dictate what type of input they are required to use for the reactants (solution or solid).
     
 ## Feedback
-
-*Explicitly describe what visual/audio/etc. indicators there that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-# Story and Gameplay
-
-## Story (Brief)
-
-*The Summary or TL;DR version of below*
-
-## Story (Detailed)
-
-*Go into as much detail as needs be. Spare no detail. Use Mind Mapping software to get your point across*
-
-## Gameplay (Brief)
-
-*The Summary version of below*
-
-## Gameplay (Detailed)
-
-*Go into as much detail as needs be. Spare no detail. Combine this with the game mechanics section above*
-
-# Assets Needed
-
-## Graphical
-
-- Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
-- Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
-- Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
-
-## Audio
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
-- Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
-  
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
-
-- Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - When a student inputs their numbers into the input boxes, the charts detailing the products and reactants along with the graph illustrating the mass at the end of the reaction will change accordingly. When the student clicks the "add point to graph" button, the data point corresponding to their numbers will appear on the method of continuous variation graph, adding to any points that the student previously chose to graph.
