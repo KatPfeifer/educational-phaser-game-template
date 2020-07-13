@@ -4,7 +4,7 @@ waltz:
 meta:
   version: 0.0.2
   gdd authors:
-    - Your name goes here
+    - Katarina Pfeifer
   template authors:
     - Austin Cory Bart <acbart@udel.edu>
     - Mark Sheriff
