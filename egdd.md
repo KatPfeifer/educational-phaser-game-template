@@ -48,8 +48,7 @@ This simulation will show how limiting reactants work and will help demonstrate 
 
 ## Prerequisite Knowledge
 
-- Molar ratios
-- Mole fractions
+- Students will be able to define the terms Molar ratios and Mole fractions
 
 # Objects/Entities
 
