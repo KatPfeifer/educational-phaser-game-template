@@ -29,18 +29,22 @@ This simulation will show how limiting reactants work and will help demonstrate 
 ## Learning Domains
 -General chemistry
 -Limiting reactants
--method of continuous variation
+-Method of continuous variation
+
+## Learning Objectives
+  -Students will be able to define a limiting reactant and the method of continuous variation
+  -Students will be able to identify the limiting reactant
+  -Students will be able to identify the ideal molar ratio using the method of continuous variation
 
 ## Target Audiences
-general chemistry students
+  -general chemistry students
 
 ## Target Contexts
-
-UD Chem103 lab
+  -UD Chem103 lab
 
 ## Prerequisite Knowledge
-- molar ratios
-- mole fractions
+  - molar ratios
+  - mole fractions
 
 # Objects/Entities
   - A table (or multiple tables) to allow students to input the amount of material for each reactant
