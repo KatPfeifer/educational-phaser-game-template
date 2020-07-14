@@ -27,38 +27,45 @@ This simulation will show how limiting reactants work and will help demonstrate 
 - A help button will provide advice or suggestions and will feature FAQ questions in case the students get stuck.
 
 ## Learning Domains
--General chemistry
--Limiting reactants
--Method of continuous variation
+
+- General chemistry
+- Limiting reactants
+- Method of continuous variation
 
 ## Learning Objectives
-  -Students will be able to define a limiting reactant and the method of continuous variation
-  -Students will be able to identify the limiting reactant
-  -Students will be able to identify the ideal molar ratio using the method of continuous variation
+
+- Students will be able to define a limiting reactant and the method of continuous variation
+- Students will be able to identify the limiting reactant
+- Students will be able to identify the ideal molar ratio using the method of continuous variation
 
 ## Target Audiences
-  -general chemistry students
+
+- general chemistry students
 
 ## Target Contexts
-  -UD Chem103 lab
+
+- UD Chem103 lab
 
 ## Prerequisite Knowledge
-  - molar ratios
-  - mole fractions
+
+- Molar ratios
+- Mole fractions
 
 # Objects/Entities
-  - A table (or multiple tables) to allow students to input the amount of material for each reactant
-  - A reaction selecting mechanism
-  - A button that students use to add a point to their graph.
+
+- A table (or multiple tables) to allow students to input the amount of material for each reactant
+- A reaction selecting mechanism
+- A button that students use to add a point to their graph.
 
 ## Core Gameplay Mechanics (Detailed)
 
-  - Amount of matter input
-    - How it works: Students put the number of grams or concentration/number of mLs into an imput box which then changes the other charts and graphs.
-  - Graph Point Button
-    - How it works: When students click this button, the point corresponding to the numbers in the input boxes appears on the method of continuous variation chart.
-  - Reaction Selector
-    - How it works: This will allow students to pick from a set of pre-chosen reactions. Their selection will dictate what type of input they are required to use for the reactants (solution or solid).
+- Amount of matter input
+  - How it works: Students put the number of grams or concentration/number of mLs into an imput box which then changes the other charts and graphs.
+- Graph Point Button
+  - How it works: When students click this button, the point corresponding to the numbers in the input boxes appears on the method of continuous variation chart.
+- Reaction Selector
+  - How it works: This will allow students to pick from a set of pre-chosen reactions. Their selection will dictate what type of input they are required to use for the reactants (solution or solid).
     
 ## Feedback
-  - When a student inputs their numbers into the input boxes, the charts detailing the products and reactants along with the graph illustrating the mass at the end of the reaction will change accordingly. When the student clicks the "add point to graph" button, the data point corresponding to their numbers will appear on the method of continuous variation graph, adding to any points that the student previously chose to graph.
+
+- When a student inputs their numbers into the input boxes, the charts detailing the products and reactants along with the graph illustrating the mass at the end of the reaction will change accordingly. When the student clicks the "add point to graph" button, the data point corresponding to their numbers will appear on the method of continuous variation graph, adding to any points that the student previously chose to graph.
